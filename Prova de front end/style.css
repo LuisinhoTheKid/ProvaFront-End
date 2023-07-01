@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+    background-size: cover;
+    background-image: url(imagem\ de\ fundo.jpg);
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(92, 9, 9);
+}
+header{
+    text-align: center;
+    background-size: cover;
+    
+    
+}
+img{
+    height: 200px;
+}
+.Página2{
+    text-align: center;
+    font-size: medium;
+}
